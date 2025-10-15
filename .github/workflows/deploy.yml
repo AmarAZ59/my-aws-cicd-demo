@@ -16,7 +16,7 @@ jobs:
       - name: Sync files to S3
         uses: aws-actions/s3-sync@v2
         with:
-          bucket: your-bucket-name
+          bucket: my-aws-cicd-demo-bucket
           region: ap-southeast-1
           delete: true
         env:
