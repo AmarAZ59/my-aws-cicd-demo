@@ -1,4 +1,4 @@
-name: Deploy to AWS S3 (PRODUCTION USE)
+name: Deploy to AWS S3 (PRODUCTION USE!)
 
 on:
   push:
